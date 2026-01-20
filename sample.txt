@@ -1,4 +1,0 @@
-안녕하세요
-파일 수정 - git add 파일명 - git commit -m "파일명"
-
-
